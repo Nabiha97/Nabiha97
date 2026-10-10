@@ -47,4 +47,12 @@ Full-Stack & Mobile Developer focused on building clean, practical projects.
 
 ### 📊 My 3D Contribution Graph
 ![](./profile-3d-contrib/profile-night-view.svg)
+### 💬 Connect with me:
+
+<a href="https://www.linkedin.com/in/nabiha-fatima-17178b388/?isSelfProfile=true" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="mailto:emaadfatima4@gmail.com">
+  <img src="https://shields.io" alt="Email" />
+</a>
 
