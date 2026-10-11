@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabiha97&label=Profile%20views&color=0e75b6&style=flat" alt="nabiha97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabiha97" alt="nabiha97" /></a> </p>
-
 - I’m currently working on [Owlbridge](https://github.com/Nabiha97/Owlbridge)
 
 - I’m currently learning **Springboot and Docker**
