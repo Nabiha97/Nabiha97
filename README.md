@@ -1,6 +1,6 @@
 <h1 align="center">Hi Codies 👋 I'am, Nabiha</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+B612&pause=1000&color=79F7AB&width=435&lines=A+Solo+Infra+%26+UI+Chef;%F0%9F%9B%A0%EF%B8%8F+Crafting+clean+APIs+%26+optimizing+database+pipelines.;%F0%9F%93%B1+Building+cross-platform+App+Dev;%E2%98%81%EF%B8%8F+Integrating+Cloud+solutions+;and+driving+AI+innovation." alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=79F7AB&width=700&lines=A+Solo+Infra+%26+UI+Chef;Crafting+clean+APIs+%26+optimizing+;+Building+cross-platform+App+Dev;%E2%98%81%EF%B8%8F+Integrating+Cloud+solutions+;and+driving+AI+innovation." alt="Typing SVG" /></a></div>
 
 
 
