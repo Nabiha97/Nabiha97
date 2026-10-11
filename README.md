@@ -1,7 +1,6 @@
 <h1 align="center">Hi Codies 👋 I'am, Nabiha</h1>
 <h3 align="center">I am a Backend Engineer focused on building the invisible engines that power applications. I specialize in the Node.js & Python ecosystems, crafting clean RESTful/GraphQL APIs, handling secure data flow, and optimizing database pipelines.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabiha97&label=Profile%20views&color=0e75b6&style=flat" alt="nabiha97" /> </p>
 
 
 
