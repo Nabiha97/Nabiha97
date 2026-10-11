@@ -1,20 +1,21 @@
 <h1 align="center">Hi Codies 👋 I'am, Nabiha</h1>
-<h3 align="center">I am a Backend Engineer focused on building the invisible engines that power applications. I specialize in the Node.js & Python ecosystems, crafting clean RESTful/GraphQL APIs, handling secure data flow, and optimizing database pipelines.</h3>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+B612&pause=1000&color=79F7AB&width=435&lines=A+Solo+Infra+%26+UI+Chef;%F0%9F%9B%A0%EF%B8%8F+Crafting+clean+APIs+%26+optimizing+database+pipelines.;%F0%9F%93%B1+Building+cross-platform+App+Dev;%E2%98%81%EF%B8%8F+Integrating+Cloud+solutions+;and+driving+AI+innovation." alt="Typing SVG" /></a></div>
+
 
 
 
 
 - I’m currently working on [Owlbridge](https://github.com/Nabiha97/Owlbridge)
 
-- I’m currently learning **Springboot and Docker**
-
 - what I've built [Dairy-Flow](https://github.com/Nabiha97/Dairy-Flow)
 
 - My solo side quest [Dev-Synq](https://github.com/Nabiha97/devsynq-frontend)
+  
+- I’m currently learning **Springboot and Docker**
 
-- How to reach me **emaadfatima4@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nabiha-fatima-17178b388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabiha-fatima-17178b388" height="30" width="40" /></a>
 </p>
