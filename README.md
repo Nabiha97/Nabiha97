@@ -5,7 +5,7 @@
 
 - I’m currently working on [Owlbridge](https://github.com/Nabiha97/Owlbridge)
 
-- I’m currently learning **Springboot and Docker**
+- I’m currently learning  **Springboot and Docker** 
 
 - what I've built [Dairy-Flow](https://github.com/Nabiha97/Dairy-Flow)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nabiha-fatima-17178b388/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nabiha-fatima-17178b388/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nabiha-fatima-17178b388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabiha-fatima-17178b388" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
